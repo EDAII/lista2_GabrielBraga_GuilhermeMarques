@@ -6,6 +6,11 @@
 
 ### Rodando o projeto
 
+Instale o tkinter:
+```bash
+$ sudo apt-get install python3-tk
+```
+
 Crie uma  virtualenv:
 
 ```bash
@@ -16,6 +21,11 @@ Inicie a virtualenv:
 
 ```bash
 $ . .env/bin/activate
+```
+
+Instale o pyplot
+```bash
+$ pip install matplotlib
 ```
 
 Rode o código:
