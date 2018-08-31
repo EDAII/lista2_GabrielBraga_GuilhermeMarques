@@ -1,3 +1,6 @@
+## Alunos
+* Guilherme Marques - 16/0007739
+
 ## Lista 2
 
 ### Rodando o projeto
